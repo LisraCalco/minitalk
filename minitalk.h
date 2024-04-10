@@ -6,16 +6,13 @@
 /*   By: tlegendr <tlegendr@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/02 20:07:23 by tlegendr          #+#    #+#             */
-/*   Updated: 2024/04/10 15:10:20 by tlegendr         ###   ########.fr       */
+/*   Updated: 2024/04/10 15:23:47 by tlegendr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef MINITALK_H
 # define MINITALK_H
 
-# include <stdio.h>
-# include <unistd.h>
-# include <stdlib.h>
 # include <signal.h>
 
 typedef struct s_message_buffer
